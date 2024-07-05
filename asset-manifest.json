@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ALWAYSETHIOPIA/Netflix_Clone_2024/static/css/main.9b6076da.css",
+    "main.js": "/ALWAYSETHIOPIA/Netflix_Clone_2024/static/js/main.d361c39a.js",
+    "static/media/NetflixLogo.png": "/ALWAYSETHIOPIA/Netflix_Clone_2024/static/media/NetflixLogo.303904f75553a51bbf31.png",
+    "index.html": "/ALWAYSETHIOPIA/Netflix_Clone_2024/index.html",
+    "main.9b6076da.css.map": "/ALWAYSETHIOPIA/Netflix_Clone_2024/static/css/main.9b6076da.css.map",
+    "main.d361c39a.js.map": "/ALWAYSETHIOPIA/Netflix_Clone_2024/static/js/main.d361c39a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b6076da.css",
+    "static/js/main.d361c39a.js"
+  ]
+}
